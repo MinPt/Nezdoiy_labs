@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
+// 10 points
 snail = function (array) {
   //if array is empty at the start
   if (array.length === 0 || array[0].length === 0) return [];
